@@ -1,6 +1,6 @@
 <div align="center">
 
-# Senzall Dev
+<img src="banner.png" alt="Senzall's Development" width="280" />
 
 **Guild Wars 2 tools built by a player, for players.**
 
