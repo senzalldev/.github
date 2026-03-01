@@ -5,7 +5,7 @@
 **Guild Wars 2 tools built by a player, for players.**
 
 [![Website](https://img.shields.io/badge/senzall.com-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://senzall.com)
-[![GW2 Achievement Tracker](https://img.shields.io/badge/Achievement_Tracker-f59e0b?style=for-the-badge&logoColor=white)](https://senzalldev.github.io/gw2-achievements)
+[![GW2 Achievement Tracker](https://img.shields.io/badge/Achievement_Tracker-f59e0b?style=for-the-badge&logoColor=white)](https://tracker.senzall.com)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## ⚔️ Projects
 
-### [GW2 Achievement Tracker](https://senzalldev.github.io/gw2-achievements)
+### [GW2 Achievement Tracker](https://tracker.senzall.com)
 
 > Track every achievement across your Guild Wars 2 account — no install, no login, runs entirely in your browser.
 
@@ -26,7 +26,7 @@
 - 🔑 **Multi-account** — switch between characters instantly
 - 🔒 **Zero backend** — your API key never leaves your browser
 
-**[→ Open the tracker](https://senzalldev.github.io/gw2-achievements)** · [Source](https://github.com/senzalldev/gw2-achievements) · [Discussions](https://github.com/senzalldev/gw2-achievements/discussions)
+**[→ Open the tracker](https://tracker.senzall.com)** · [Source](https://github.com/senzalldev/gw2-achievements) · [Discussions](https://github.com/senzalldev/gw2-achievements/discussions)
 
 ---
 
