@@ -2,7 +2,7 @@
 
 <img src="banner.png" alt="Senzall's Development" width="280" />
 
-**Guild Wars 2 tools built by a player, for players.**
+**Guild Wars 2 tools built by a player, for players!!**
 
 [![Website](https://img.shields.io/badge/senzall.com-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://senzall.com)
 [![GW2 Achievement Tracker](https://img.shields.io/badge/Achievement_Tracker-f59e0b?style=for-the-badge&logoColor=white)](https://tracker.senzall.com)
